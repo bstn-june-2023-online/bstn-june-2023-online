@@ -1,9 +1,9 @@
 <h1 >Hi 👋, I'm BrainStation Educator</h1>
 <h3 align="center">One of many superb educators at the international bootcamp school BrainStation</h3>
 <div align="center">
-- 🔭 I’m currently working on **Teaching about portfolios**
+ 🔭 I’m currently working on **Teaching about portfolios**
 
-- 👯 I’m looking to collaborate on **Getting students jobs.**
+ 👯 I’m looking to collaborate on **Getting students jobs.**
 
 <h3>Connect with me:</h3>
 <p align="left">
